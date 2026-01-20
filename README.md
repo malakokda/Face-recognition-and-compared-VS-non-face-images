@@ -39,7 +39,7 @@ Creates a 50/50 split (5 instances per person for training/testing) by separatin
 3. **LDA Implementation**:
 * Calculates the within-class scatter matrix  and between-class scatter matrix .
 * Projects the training and test sets into a 39-dimensional space
-* 
+  
 4. **Evaluation Metrics**: Reports **Accuracy** for every  value and compares PCA and LDA results directly.
 
 ## Results (Test Set):
